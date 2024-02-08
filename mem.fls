@@ -1,0 +1,786 @@
+PWD f:\education\memoire RM2\memory
+INPUT C:\Users\wawad\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT f:\education\memoire RM2\memory\mem.tex
+OUTPUT mem.log
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\book.cls
+INPUT C:\MixTex\tex\latex\base\bk12.clo
+INPUT C:\MixTex\tex\latex\base\bk12.clo
+INPUT C:\MixTex\tex\latex\base\bk12.clo
+INPUT C:\MixTex\tex\latex\base\bk12.clo
+INPUT C:\MixTex\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics\trig.sty
+INPUT C:\MixTex\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\MixTex\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\MixTex\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\MixTex\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\MixTex\tex\latex\graphics-def\pdftex.def
+INPUT C:\MixTex\tex\latex\graphics-def\pdftex.def
+INPUT C:\MixTex\tex\latex\graphics-def\pdftex.def
+INPUT C:\MixTex\tex\latex\graphics-def\pdftex.def
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\tabularx.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\tools\array.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\preprint\authblk.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics\color.sty
+INPUT C:\MixTex\tex\latex\graphics-cfg\color.cfg
+INPUT C:\MixTex\tex\latex\graphics-cfg\color.cfg
+INPUT C:\MixTex\tex\latex\graphics-cfg\color.cfg
+INPUT C:\MixTex\tex\latex\graphics-cfg\color.cfg
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\packages\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\base\ifthen.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\tools\calc.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\graphics\graphicx.sty
+INPUT C:\packages\tex\latex\pdfpages\pppdftex.def
+INPUT C:\packages\tex\latex\pdfpages\pppdftex.def
+INPUT C:\packages\tex\latex\pdfpages\pppdftex.def
+INPUT C:\packages\tex\latex\pdfpages\pppdftex.def
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\latex\hyperref\hyperref.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\hycolor\hycolor.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\auxhook\auxhook.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\MixTex\tex\latex\hyperref\pd1enc.def
+INPUT C:\MixTex\tex\latex\hyperref\pd1enc.def
+INPUT C:\MixTex\tex\latex\hyperref\pd1enc.def
+INPUT C:\MixTex\tex\latex\hyperref\pd1enc.def
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\latex\hyperref\puenc.def
+INPUT C:\MixTex\tex\latex\hyperref\puenc.def
+INPUT C:\MixTex\tex\latex\hyperref\puenc.def
+INPUT C:\MixTex\tex\latex\hyperref\puenc.def
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\latex\url\url.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\bitset\bitset.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\intcalc\intcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\MixTex\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\MixTex\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\MixTex\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\MixTex\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\MixTex\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\MixTex\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\MixTex\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\MixTex\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\MixTex\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\MixTex\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\MixTex\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\MixTex\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\MixTex\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\MixTex\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\MixTex\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\MixTex\tex\latex\hyperref\hpdftex.def
+INPUT C:\MixTex\tex\latex\hyperref\hpdftex.def
+INPUT C:\MixTex\tex\latex\hyperref\hpdftex.def
+INPUT C:\MixTex\tex\latex\hyperref\hpdftex.def
+INPUT C:\MixTex\tex\latex\atveryend\atveryend.sty
+INPUT C:\MixTex\tex\latex\atveryend\atveryend.sty
+INPUT C:\MixTex\tex\latex\atveryend\atveryend.sty
+INPUT C:\MixTex\tex\latex\base\atveryend-ltx.sty
+INPUT C:\MixTex\tex\latex\atveryend\atveryend.sty
+INPUT C:\MixTex\tex\latex\atveryend\atveryend.sty
+INPUT C:\MixTex\tex\latex\base\atveryend-ltx.sty
+INPUT C:\MixTex\tex\latex\atveryend\atveryend.sty
+INPUT C:\MixTex\tex\latex\base\atveryend-ltx.sty
+INPUT C:\MixTex\tex\latex\base\atveryend-ltx.sty
+INPUT C:\MixTex\tex\latex\atveryend\atveryend.sty
+INPUT C:\MixTex\tex\latex\atveryend\atveryend.sty
+INPUT C:\MixTex\tex\latex\base\atveryend-ltx.sty
+INPUT C:\MixTex\tex\latex\base\atveryend-ltx.sty
+INPUT C:\MixTex\tex\latex\atveryend\atveryend.sty
+INPUT C:\MixTex\tex\latex\base\atveryend-ltx.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\MixTex\tex\latex\atveryend\atveryend.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\MixTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3kernel\expl3.sty
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\MixTex\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\latex\fncychap\fncychap.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\babel.sty
+INPUT C:\MixTex\tex\generic\babel\txtbabel.def
+INPUT C:\MixTex\tex\latex\arabi\bblopts.cfg
+INPUT C:\MixTex\tex\latex\arabi\bblopts.cfg
+INPUT C:\MixTex\tex\latex\arabi\bblopts.cfg
+INPUT C:\MixTex\tex\latex\arabi\bblopts.cfg
+INPUT C:\MixTex\tex\generic\babel-french\french.ldf
+INPUT C:\MixTex\tex\generic\babel-french\french.ldf
+INPUT C:\MixTex\tex\generic\babel-french\french.ldf
+INPUT C:\MixTex\tex\generic\babel-french\french.ldf
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\carlisle\scalefnt.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\listings\listings.sty
+INPUT C:\MixTex\tex\latex\graphics\keyval.sty
+INPUT C:\MixTex\tex\latex\listings\lstmisc.sty
+INPUT C:\MixTex\tex\latex\listings\lstmisc.sty
+INPUT C:\MixTex\tex\latex\listings\lstmisc.sty
+INPUT C:\MixTex\tex\latex\listings\lstmisc.sty
+INPUT C:\MixTex\tex\latex\listings\listings.cfg
+INPUT C:\MixTex\tex\latex\listings\listings.cfg
+INPUT C:\MixTex\tex\latex\listings\listings.cfg
+INPUT C:\MixTex\tex\latex\listings\listings.cfg
+INPUT C:\MixTex\tex\latex\listings\lstlang1.sty
+INPUT C:\MixTex\tex\latex\listings\lstlang1.sty
+INPUT C:\MixTex\tex\latex\listings\lstlang1.sty
+INPUT C:\MixTex\tex\latex\listings\lstlang1.sty
+INPUT .\mem.aux
+INPUT mem.aux
+INPUT mem.aux
+OUTPUT mem.aux
+INPUT C:\MixTex\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\MixTex\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\MixTex\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\MixTex\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\MixTex\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\MixTex\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\MixTex\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\MixTex\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\MixTex\tex\generic\iftex\iftex.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\lscape.sty
+INPUT C:\MixTex\tex\latex\graphics\graphics.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\hyperref\nameref.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\latex\refcount\refcount.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\MixTex\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\MixTex\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\MixTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT .\mem.out
+INPUT mem.out
+INPUT .\mem.out
+INPUT mem.out
+INPUT .\mem.out
+INPUT mem.out
+INPUT .\mem.out
+INPUT mem.out
+OUTPUT mem.pdf
+INPUT .\mem.out
+INPUT .\mem.out
+OUTPUT mem.out
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT Page de garde-1-4.pdf
+INPUT .\Page de garde-1-4.pdf
+INPUT C:\MixTex\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\MixTex\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT .\mem.toc
+INPUT mem.toc
+INPUT mem.toc
+INPUT C:\MixTex\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\MixTex\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\MixTex\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\MixTex\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\MixTex\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\MixTex\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\MixTex\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\MixTex\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\MixTex\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT mem.toc
+INPUT C:\Users\wawad\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\MixTex\fonts\tfm\public\cm\cmsl12.tfm
+INPUT .\mem.lof
+INPUT mem.lof
+INPUT mem.lof
+OUTPUT mem.lof
+INPUT C:\MixTex\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\MixTex\tex\latex\psnfss\ot1phv.fd
+INPUT C:\MixTex\tex\latex\psnfss\ot1phv.fd
+INPUT C:\MixTex\tex\latex\psnfss\ot1phv.fd
+INPUT C:\MixTex\tex\latex\psnfss\ot1phv.fd
+INPUT C:\MixTex\fonts\tfm\adobe\helvetic\phvr7t.tfm
+INPUT C:\MixTex\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\MixTex\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\MixTex\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\MixTex\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\MixTex\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\MixTex\fonts\vf\adobe\helvetic\phvr7t.vf
+INPUT C:\MixTex\fonts\tfm\adobe\helvetic\phvr8r.tfm
+INPUT C:\MixTex\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\MixTex\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\MixTex\fonts\tfm\public\cm\cmti12.tfm
+INPUT mem.aux
+INPUT .\mem.out
+INPUT .\mem.out
+INPUT C:\MixTex\fonts\enc\dvips\base\8r.enc
+INPUT C:\MixTex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\MixTex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\MixTex\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\MixTex\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\MixTex\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\MixTex\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\MixTex\fonts\type1\public\amsfonts\cm\cmsl12.pfb
+INPUT C:\MixTex\fonts\type1\public\amsfonts\cm\cmsl12.pfb
+INPUT C:\MixTex\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\MixTex\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\MixTex\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT C:\MixTex\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT C:\MixTex\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\MixTex\fonts\type1\urw\times\utmr8a.pfb

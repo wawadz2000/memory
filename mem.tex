@@ -1,0 +1,53 @@
+\documentclass[12pt]{book}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{authblk}
+\usepackage{color}
+\usepackage{pdfpages}
+\usepackage{hyperref}
+\usepackage{lipsum}
+\usepackage[Lenny]{fncychap}
+\usepackage[french]{babel}
+\usepackage{listings}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  language=Python,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+\ChNameUpperCase
+\ChNumVar{\fontsize{40}{42}\usefont{OT1}{ptm}{m}{n}\selectfont}
+\ChTitleVar{\Large\sc}
+\begin{document}
+\includepdf[pages=-]{Page de garde-1-4.pdf}
+\tableofcontents
+\listoffigures
+\newpage
+\section{Introduction Générale}
+\chapter{Apprentissage automatique et deep learning}
+\chapter{Conception et Modélisation UML}
+\chapter{Implémentation}
+\chapter{Conclusion Générale}
+\begin{thebibliography}{9}
+    \bibitem{chatgpt}
+    \href{https://chat.openai.com}{chat.openai.com}
+    
+    \bibitem{book}
+    Chantal Morley, Jean Hugues, Bernard Leblanc (2006) \emph{UML2 pour l’analyse d’un système d’information}, Dunod.
+\end{thebibliography}
+    
+\end{document}
