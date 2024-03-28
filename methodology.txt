@@ -1,0 +1,25 @@
+Chapiter 4 (Methodologie)
+1-Introduction
+2-Notre objet
+3-Prétraitement
+3-1 collection des données
+3-2 Importer les données
+3-3 Sélectionner les colonnes nécessaires
+3-4 Suppression des documents contenant des valeurs nulles
+3-5 compression des colonnes (la methode de ACP (pca en anglais))(optionnel)
+3-6 Encodage des caractéristiques
+3-6-1 encodage one-hot
+3-6-2 encodage de label
+4- representation des données 
+4-1 la representation en binary feature vector
+5- Processus général de notre système classification
+6-Méthodologie de travail
+6-1 pipline des modeles
+7- Evaluation des modèle classification (avec et sans compression)
+7-1 precision
+7-2 Rappel
+7-3 L'exactitude (accuracy en anglais)
+7-4 score F1
+8- Optimisation des modèles classification
+9- Pertes des modèle classification
+10-conclusion

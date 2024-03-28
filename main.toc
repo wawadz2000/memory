@@ -7,79 +7,162 @@
 \select@language {french}
 \babel@toc {french}{}\relax 
 \select@language {french}
-\contentsline {chapter}{Liste des abréviations}{viii}{chapter*.6}%
+\contentsline {chapter}{Liste des abréviations}{x}{chapter*.6}%
+\contentsline {chapter}{Liste des figures}{xi}{chapter*.6}%
 \select@language {french}
-\contentsline {chapter}{Liste des figures}{ix}{chapter*.8}%
+\contentsline {chapter}{Liste des tableaux}{xiii}{chapter*.7}%
 \select@language {french}
-\contentsline {chapter}{Liste des tableaux}{x}{chapter*.9}%
-\select@language {french}
-\contentsline {chapter}{Liste des Algorithmes}{xi}{chapter*.10}%
+\contentsline {chapter}{Liste des Algorithmes}{xiv}{chapter*.8}%
 \select@language {french}
 \select@language {french}
 \contentsline {chapter}{\numberline {1}\bgroup \beginL \latintext Introduction Générale\endL \egroup }{1}{chapter.1}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {1.1}\else \textLR {1.1}\fi }\bgroup \beginL \latintext Introduction\endL \egroup }{1}{section.1.1}%
+\contentsline {section}{\numberline {\if@rl \I {1.1}\else \textLR {1.1}\fi }\bgroup \beginL \latintext Introduction \endL \egroup }{1}{section.1.1}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {2.1}\else \textLR {1.2}\fi }\bgroup \beginL \latintext Objectifs\endL \egroup }{2}{section.1.2}%
+\contentsline {section}{\numberline {\if@rl \I {2.1}\else \textLR {1.2}\fi }\bgroup \beginL \latintext Diagnostic médical \endL \egroup }{1}{section.1.2}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {3.1}\else \textLR {1.3}\fi }\bgroup \beginL \latintext Méthodologie et résultats \endL \egroup }{2}{section.1.3}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.2.1}\else \textLR {1.2.1}\fi }\bgroup \beginL \latintext Historique diagnostic \endL \egroup }{2}{subsection.1.2.1}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {4.1}\else \textLR {1.4}\fi }\bgroup \beginL \latintext Structure du rapport\endL \egroup }{2}{section.1.4}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.2.1}\else \textLR {1.2.2}\fi }\bgroup \beginL \latintext Définitions diagnostic\endL \egroup }{2}{subsection.1.2.2}%
 \select@language {french}
-\contentsline {chapter}{\numberline {2}\bgroup \beginL \latintext Un guide\endL \egroup }{3}{chapter.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.2.1}\else \textLR {1.2.3}\fi }\bgroup \beginL \latintext Les étapes de diagnostic\endL \egroup }{3}{subsection.1.2.3}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {1.2}\else \textLR {2.1}\fi }\bgroup \beginL \latintext Introduction\endL \egroup }{3}{section.2.1}%
+\contentsline {section}{\numberline {\if@rl \I {3.1}\else \textLR {1.3}\fi }\bgroup \beginL \latintext Symptômes médicaux \endL \egroup }{3}{section.1.3}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {2.2}\else \textLR {2.2}\fi }\bgroup \beginL \latintext La structure générale\endL \egroup }{3}{section.2.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.1}\else \textLR {1.3.1}\fi }\bgroup \beginL \latintext Définitions les symptômes \endL \egroup }{4}{subsection.1.3.1}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {3.2}\else \textLR {2.3}\fi }\bgroup \beginL \latintext Du pronom désignant l'auteur du rapport\endL \egroup }{3}{section.2.3}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi }\bgroup \beginL \latintext Exemples de symptômes \endL \egroup }{4}{subsection.1.3.2}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {4.2}\else \textLR {2.4}\fi }\bgroup \beginL \latintext Du pronom désignant le lecteur ou une personne en général\endL \egroup }{4}{section.2.4}%
+\contentsline {section}{\numberline {\if@rl \I {4.1}\else \textLR {1.4}\fi }\bgroup \beginL \latintext Pronostic médical \endL \egroup }{4}{section.1.4}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {5.2}\else \textLR {2.5}\fi }\bgroup \beginL \latintext Conclusion\endL \egroup }{4}{section.2.5}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.4.1}\else \textLR {1.4.1}\fi }\bgroup \beginL \latintext Définition Pronostic médical \endL \egroup }{5}{subsection.1.4.1}%
 \select@language {french}
-\contentsline {chapter}{\numberline {3}\bgroup \beginL \latintext Le format\endL \egroup }{5}{chapter.3}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.4.1}\else \textLR {1.4.2}\fi }\bgroup \beginL \latintext Les type Pronostic médical \endL \egroup }{5}{subsection.1.4.2}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {1.3}\else \textLR {3.1}\fi }\bgroup \beginL \latintext Texte, paragraphes, les titres, et les sous titres\endL \egroup }{5}{section.3.1}%
+\contentsline {section}{\numberline {\if@rl \I {5.1}\else \textLR {1.5}\fi }\bgroup \beginL \latintext La relation entre diagnostic, les symptômes et Pronostic médical \endL \egroup }{5}{section.1.5}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {2.3}\else \textLR {3.2}\fi }\bgroup \beginL \latintext Code source et Algorithmes\endL \egroup }{5}{section.3.2}%
+\contentsline {section}{\numberline {\if@rl \I {6.1}\else \textLR {1.6}\fi }\bgroup \beginL \latintext Conclusion\endL \egroup }{5}{section.1.6}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {3.3}\else \textLR {3.3}\fi }\bgroup \beginL \latintext Formules mathématiques\endL \egroup }{6}{section.3.3}%
+\contentsline {chapter}{\numberline {2}\bgroup \beginL \latintext Apprentissage Automatique\endL \egroup }{6}{chapter.2}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {4.3}\else \textLR {3.4}\fi }\bgroup \beginL \latintext Les listes\endL \egroup }{7}{section.3.4}%
+\contentsline {section}{\numberline {\if@rl \I {1.2}\else \textLR {2.1}\fi }\bgroup \beginL \latintext Introduction\endL \egroup }{6}{section.2.1}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {5.3}\else \textLR {3.5}\fi }\bgroup \beginL \latintext Remarques\endL \egroup }{7}{section.3.5}%
+\contentsline {section}{\numberline {\if@rl \I {2.2}\else \textLR {2.2}\fi }\bgroup \beginL \latintext L'apprentissage Automatique \endL \egroup }{6}{section.2.2}%
 \select@language {french}
-\contentsline {chapter}{\numberline {4}\bgroup \beginL \latintext Figures, tableaux et références\endL \egroup }{8}{chapter.4}%
+\contentsline {section}{\numberline {\if@rl \I {3.2}\else \textLR {2.3}\fi }\bgroup \beginL \latintext Types d’Apprentissage Automatique \endL \egroup }{7}{section.2.3}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {1.4}\else \textLR {4.1}\fi }\bgroup \beginL \latintext ...\endL \egroup }{8}{section.4.1}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.2}\else \textLR {2.3.1}\fi }\bgroup \beginL \latintext Apprentissage Supervisé \endL \egroup }{7}{subsection.2.3.1}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {2.4}\else \textLR {4.2}\fi }\bgroup \beginL \latintext Les tableaux\endL \egroup }{8}{section.4.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.2}\else \textLR {2.3.2}\fi }\bgroup \beginL \latintext Apprentissage Non-Supervisé \endL \egroup }{8}{subsection.2.3.2}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {3.4}\else \textLR {4.3}\fi }\bgroup \beginL \latintext Les figures\endL \egroup }{8}{section.4.3}%
+\contentsline {section}{\numberline {\if@rl \I {4.2}\else \textLR {2.4}\fi }\bgroup \beginL \latintext Définition de classification \endL \egroup }{8}{section.2.4}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {4.4}\else \textLR {4.4}\fi }\bgroup \beginL \latintext Les références\endL \egroup }{10}{section.4.4}%
+\contentsline {section}{\numberline {\if@rl \I {5.2}\else \textLR {2.5}\fi }\bgroup \beginL \latintext Les types de classification \endL \egroup }{8}{section.2.5}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {5.4}\else \textLR {4.5}\fi }\bgroup \beginL \latintext ...\endL \egroup }{10}{section.4.5}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.5.2}\else \textLR {2.5.1}\fi }\bgroup \beginL \latintext La classification binaire (Binary classification) \endL \egroup }{9}{subsection.2.5.1}%
 \select@language {french}
-\contentsline {chapter}{\numberline {5}\bgroup \beginL \latintext Conclusion générale (2 pages max)\endL \egroup }{11}{chapter.5}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.5.2}\else \textLR {2.5.2}\fi }\bgroup \beginL \latintext La classification multi-classe \endL \egroup }{9}{subsection.2.5.2}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {1.5}\else \textLR {5.1}\fi }\bgroup \beginL \latintext Contributions\endL \egroup }{11}{section.5.1}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.5.2}\else \textLR {2.5.3}\fi }\bgroup \beginL \latintext La classification multi-lable \endL \egroup }{10}{subsection.2.5.3}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {2.5}\else \textLR {5.2}\fi }\bgroup \beginL \latintext Critique du travail\endL \egroup }{11}{section.5.2}%
+\contentsline {section}{\numberline {\if@rl \I {6.2}\else \textLR {2.6}\fi }\bgroup \beginL \latintext Techniques de Classification \endL \egroup }{10}{section.2.6}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {3.5}\else \textLR {5.3}\fi }\bgroup \beginL \latintext Travaux futurs et perspectives\endL \egroup }{11}{section.5.3}%
-\contentsline {chapter}{Références}{11}{section.5.3}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.6.2}\else \textLR {2.6.1}\fi }\bgroup \beginL \latintext Les k plus proches voisins (KNN) \endL \egroup }{10}{subsection.2.6.1}%
 \select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {2.6.2}\else \textLR {2.6.2}\fi }\bgroup \beginL \latintext k-means \endL \egroup }{11}{subsection.2.6.2}%
 \select@language {french}
-\contentsline {chapter}{\numberline {A}\bgroup \beginL \latintext Titre de l’annexe ici\endL \egroup }{13}{appendix.A}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.6.2}\else \textLR {2.6.3}\fi }\bgroup \beginL \latintext Régression Logistique\endL \egroup }{12}{subsection.2.6.3}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {1.1}\else \textLR {1.1}\fi }\bgroup \beginL \latintext \endL \egroup }{13}{section.A.1}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.6.2}\else \textLR {2.6.4}\fi }\bgroup \beginL \latintext Machine à Vecteurs de Supports (S V M) \endL \egroup }{13}{subsection.2.6.4}%
 \select@language {french}
-\contentsline {subsection}{\numberline {\if@rl \I {1.1.1}\else \textLR {1.1.1}\fi }\bgroup \beginL \latintext \endL \egroup }{13}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {\if@rl \I {5.6.2}\else \textLR {2.6.5}\fi }\bgroup \beginL \latintext Apprentissage profondeur \endL \egroup }{13}{subsection.2.6.5}%
 \select@language {french}
-\contentsline {chapter}{\numberline {B}\bgroup \beginL \latintext Titre de l’annexe ici\endL \egroup }{14}{appendix.B}%
+\contentsline {section}{\numberline {\if@rl \I {7.2}\else \textLR {2.7}\fi }\bgroup \beginL \latintext Comparaison entre techniques de classification\endL \egroup }{15}{section.2.7}%
 \select@language {french}
-\contentsline {section}{\numberline {\if@rl \I {1.2}\else \textLR {2.1}\fi }\bgroup \beginL \latintext \endL \egroup }{14}{section.B.1}%
+\contentsline {section}{\numberline {\if@rl \I {8.2}\else \textLR {2.8}\fi }\bgroup \beginL \latintext Conclusion\endL \egroup }{16}{section.2.8}%
 \select@language {french}
-\contentsline {subsection}{\numberline {\if@rl \I {1.1.2}\else \textLR {2.1.1}\fi }\bgroup \beginL \latintext \endL \egroup }{14}{subsection.B.1.1}%
+\contentsline {chapter}{\numberline {3}\bgroup \beginL \latintext Deep Learning\endL \egroup }{17}{chapter.3}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {1.3}\else \textLR {3.1}\fi }\bgroup \beginL \latintext Introduction \endL \egroup }{17}{section.3.1}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {2.3}\else \textLR {3.2}\fi }\bgroup \beginL \latintext L’apprentissage profond \endL \egroup }{17}{section.3.2}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {1.2.3}\else \textLR {3.2.1}\fi }\bgroup \beginL \latintext Définition l'apprentissage profond\endL \egroup }{17}{subsection.3.2.1}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {2.2.3}\else \textLR {3.2.2}\fi }\bgroup \beginL \latintext Domaines d'application de l'apprentissage profonde \endL \egroup }{18}{subsection.3.2.2}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {3.3}\else \textLR {3.3}\fi }\bgroup \beginL \latintext Principes de fonctionnement \endL \egroup }{19}{section.3.3}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.3}\else \textLR {3.3.1}\fi }\bgroup \beginL \latintext Les types des couches dans d’apprentissage profond\endL \egroup }{19}{subsection.3.3.1}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {4.3}\else \textLR {3.4}\fi }\bgroup \beginL \latintext Les poids \endL \egroup }{20}{section.3.4}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {5.3}\else \textLR {3.5}\fi }\bgroup \beginL \latintext La fonction d'activation \endL \egroup }{20}{section.3.5}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {1.5.3}\else \textLR {3.5.1}\fi }\bgroup \beginL \latintext La fonction Relu \endL \egroup }{20}{subsection.3.5.1}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {2.5.3}\else \textLR {3.5.2}\fi }\bgroup \beginL \latintext La fonction d'un softmax \endL \egroup }{21}{subsection.3.5.2}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {3.5.3}\else \textLR {3.5.3}\fi }\bgroup \beginL \latintext La fonction sigmoïde \endL \egroup }{22}{subsection.3.5.3}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {6.3}\else \textLR {3.6}\fi }\bgroup \beginL \latintext Les différents types de model deep Learning\endL \egroup }{23}{section.3.6}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {1.6.3}\else \textLR {3.6.1}\fi }\bgroup \beginL \latintext Le réseau de neurone convolutif (CNN) \endL \egroup }{23}{subsection.3.6.1}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {2.6.3}\else \textLR {3.6.2}\fi }\bgroup \beginL \latintext Réseau de neurones récurrents (RNN) \endL \egroup }{24}{subsection.3.6.2}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {3.6.3}\else \textLR {3.6.3}\fi }\bgroup \beginL \latintext Les réseaux LSTM \endL \egroup }{25}{subsection.3.6.3}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {4.6.3}\else \textLR {3.6.4}\fi }\bgroup \beginL \latintext Réseaux de neurones artificiel (ANN) \endL \egroup }{26}{subsection.3.6.4}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {7.3}\else \textLR {3.7}\fi }\bgroup \beginL \latintext Conclusion \endL \egroup }{27}{section.3.7}%
+\select@language {french}
+\contentsline {chapter}{\numberline {4}\bgroup \beginL \latintext Méthodologie\endL \egroup }{28}{chapter.4}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {1.4}\else \textLR {4.1}\fi }\bgroup \beginL \latintext Introduction\endL \egroup }{28}{section.4.1}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {2.4}\else \textLR {4.2}\fi }\bgroup \beginL \latintext Notre Objectif\endL \egroup }{28}{section.4.2}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {3.4}\else \textLR {4.3}\fi }\bgroup \beginL \latintext Prétraitement\endL \egroup }{30}{section.4.3}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {4.4}\else \textLR {4.4}\fi }\bgroup \beginL \latintext Représentation des Données\endL \egroup }{32}{section.4.4}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {1.4.4}\else \textLR {4.4.1}\fi }\bgroup \beginL \latintext La Représentation en Vecteur de Caractéristiques Binaires\endL \egroup }{32}{subsection.4.4.1}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {5.4}\else \textLR {4.5}\fi }\bgroup \beginL \latintext Méthodologie de Travail\endL \egroup }{32}{section.4.5}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {6.4}\else \textLR {4.6}\fi }\bgroup \beginL \latintext Evaluation des Modèles de Classification\endL \egroup }{34}{section.4.6}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {1.6.4}\else \textLR {4.6.1}\fi }\bgroup \beginL \latintext Rappel\endL \egroup }{34}{subsection.4.6.1}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {2.6.4}\else \textLR {4.6.2}\fi }\bgroup \beginL \latintext Précision\endL \egroup }{34}{subsection.4.6.2}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {3.6.4}\else \textLR {4.6.3}\fi }\bgroup \beginL \latintext Exactitude\endL \egroup }{34}{subsection.4.6.3}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {4.6.4}\else \textLR {4.6.4}\fi }\bgroup \beginL \latintext Score f1\endL \egroup }{35}{subsection.4.6.4}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {5.6.4}\else \textLR {4.6.5}\fi }\bgroup \beginL \latintext Temps d'entraînemente\endL \egroup }{35}{subsection.4.6.5}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {7.4}\else \textLR {4.7}\fi }\bgroup \beginL \latintext Optimisation des models de classification\endL \egroup }{35}{section.4.7}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {1.7.4}\else \textLR {4.7.1}\fi }\bgroup \beginL \latintext Adam (Estimation de moment adaptatif)\endL \egroup }{35}{subsection.4.7.1}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {2.7.4}\else \textLR {4.7.2}\fi }\bgroup \beginL \latintext SGD (Descente de gradient stochastique) \endL \egroup }{36}{subsection.4.7.2}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {8.4}\else \textLR {4.8}\fi }\bgroup \beginL \latintext Pertes des modèle de classification \endL \egroup }{37}{section.4.8}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {1.8.4}\else \textLR {4.8.1}\fi }\bgroup \beginL \latintext Entropie croisée catégorielle eparses\endL \egroup }{37}{subsection.4.8.1}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {9.4}\else \textLR {4.9}\fi }\bgroup \beginL \latintext Conclusion\endL \egroup }{39}{section.4.9}%
+\select@language {french}
+\contentsline {chapter}{\numberline {A}\bgroup \beginL \latintext Titre de l’annexe ici\endL \egroup }{40}{appendix.A}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {1.1}\else \textLR {1.1}\fi }\bgroup \beginL \latintext \endL \egroup }{40}{section.A.1}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {1.1.1}\else \textLR {1.1.1}\fi }\bgroup \beginL \latintext \endL \egroup }{40}{subsection.A.1.1}%
+\select@language {french}
+\contentsline {chapter}{\numberline {B}\bgroup \beginL \latintext Titre de l’annexe ici\endL \egroup }{41}{appendix.B}%
+\select@language {french}
+\contentsline {section}{\numberline {\if@rl \I {1.2}\else \textLR {2.1}\fi }\bgroup \beginL \latintext \endL \egroup }{41}{section.B.1}%
+\select@language {french}
+\contentsline {subsection}{\numberline {\if@rl \I {1.1.2}\else \textLR {2.1.1}\fi }\bgroup \beginL \latintext \endL \egroup }{41}{subsection.B.1.1}%

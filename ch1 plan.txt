@@ -1,0 +1,12 @@
+1-introduction
+2-l'apprentissage profondeur(deep learning)
+3-types d'apprentissage 
+3.1 Apprentissage Supervisé
+3.2 Apprentissage Non-Supervisé
+4 Algorithmes de Classification
+4-1.Neuron networks
+4-2.KNN
+4-3.k-means
+4-4.logistique regression
+4-5.svm
+5- conclusion
